@@ -1,6 +1,4 @@
-<%--
-  Author: Giorgos Zervas <cs460tf@cs.bu.edu>
---%>
+
 <%@ page import="edu.bu.cs.cs460.photoshare.Picture" %>
 <%@ page import="edu.bu.cs.cs460.photoshare.PictureDao" %>
 <%@ page import="edu.bu.cs.cs460.photoshare.AddAlbumDao" %>
